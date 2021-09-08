@@ -2,7 +2,7 @@
 
 # Hi there, I'm Tajmirul Islam Akhand 👋 - [toINFINITE](https://toinfinite.dev)
 
-![Website](https://img.shields.io/website?label=toInfinite&logo=globe&style=for-the-badge&up_message=me&url=https%3A%2F%2Ftoinfinite.dev)
+[![Website](https://img.shields.io/website?label=toInfinite&logo=globe&style=for-the-badge&up_message=me&url=https%3A%2F%2Ftoinfinite.dev)](https://me.toinfinite.dev)
 
 
 ## I'm a Full stack web developer
