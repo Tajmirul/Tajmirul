@@ -1,4 +1,5 @@
-<!-- <img> -->
+<img src="assets/banner.jpg" style="width:100%" >
+<br >
 
 # Hi there, I'm Tajmirul Islam Akhand 👋 - [toINFINITE](https://toinfinite.dev)
 
@@ -48,7 +49,6 @@
 
 <!--START_SECTION:activity-->
 
----
 
 ![](https://github-readme-stats-ochre-mu.vercel.app/api?username=Tajmirul&show_icons=true&hide_border=true)
 
