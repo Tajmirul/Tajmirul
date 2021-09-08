@@ -1,5 +1,4 @@
 <img src="assets/banner.jpg" style="width:100%" >
-<br >
 
 # Hi there, I'm Tajmirul Islam Akhand 👋 - [toINFINITE](https://toinfinite.dev)
 
