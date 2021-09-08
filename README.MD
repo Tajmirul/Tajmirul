@@ -8,7 +8,7 @@
 ## I'm a Full stack web developer
 
 - 🔭 working on my first ecommerce project
-- 🌱 currently learning Node Js, Next.js 🤣
+- 🌱 currently learning Node Js, Next.js
 - 👯 looking to collaborate with other content creators
 - ⚡ Fun fact: I love to code with background music
 
@@ -36,18 +36,19 @@
 )
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 )
+![sass](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 )
 ![ESlint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
 )
 
 
-<br />
-<br />
-
 ---
 
-GitHub Stats
+<!--START_SECTION:activity-->
+
+---
 
 ![](https://github-readme-stats-ochre-mu.vercel.app/api?username=Tajmirul&show_icons=true&hide_border=true)
 
