@@ -1,8 +1,9 @@
 <img src="assets/banner.jpg" style="width:100%" >
 
-# Hi there, I'm Tajmirul Islam Akhand 👋 - [toINFINITE](https://toinfinite.dev)
+# Hi there, I'm Tajmirul Islam Akhand 👋
 
 [![Website](https://img.shields.io/website?label=toInfinite&logo=globe&style=for-the-badge&up_message=me&url=https%3A%2F%2Ftoinfinite.dev)](https://me.toinfinite.dev)
+![](https://komarev.com/ghpvc/?username=Tajmirul&style=for-the-badge)
 
 
 ## I'm a Full stack web developer
@@ -48,9 +49,7 @@
 
 <!--START_SECTION:activity-->
 
-
-![](https://github-readme-stats-ochre-mu.vercel.app/api?username=Tajmirul&show_icons=true&hide_border=true)
-
+![](./profile-3d-contrib/profile-3d-contrib/profile-green-animate.svg)
 
 [website]: https://toinfinite.dev
 [linkedin]: https://www.linkedin.com/in/tajmirul
