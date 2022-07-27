@@ -44,12 +44,12 @@
 ![ESlint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
 )
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
 <!--START_SECTION:activity-->
-
-![](./profile-3d-contrib/profile-3d-contrib/profile-green-animate.svg)
 
 [website]: https://toinfinite.dev
 [linkedin]: https://www.linkedin.com/in/tajmirul
