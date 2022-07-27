@@ -8,9 +8,9 @@
 
 ## I'm a Full stack web developer
 
-- 🔭 working on my first ecommerce project
+- 🔭 working on [nodeJs ecommerce project](https://github.com/Tajmirul/ecolife)
 - 🌱 currently learning Node Js, Next.js
-- 👯 looking to collaborate with other content creators
+- 👯 looking for new opportunity
 - ⚡ Fun fact: I love to code with background music
 
 
