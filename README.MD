@@ -39,6 +39,15 @@
 ![ESlint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 20 July 2022 - To: 27 July 2022
+
+Blade Template   27 mins         ██████████░░░░░░░░░░░░░░░   40.50 %
+Markdown         14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
+Other            10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
