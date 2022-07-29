@@ -2,7 +2,7 @@
 
 # Hi there, I'm Tajmirul Islam Akhand 👋
 
-[![Website](https://img.shields.io/website?label=to%20Infinite&logo=globe&style=for-the-badge&up_message=postfolio&url=https%3A%2F%2Ftoinfinite.dev)](https://me.toinfinite.dev)
+[![Website](https://img.shields.io/website?label=to%20Infinite&logo=globe&style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Ftoinfinite.dev)](https://me.toinfinite.dev)
 [![Download Resume](https://img.shields.io/badge/DOWNLOAD-RESUME-green?style=for-the-badge)](https://docs.google.com/document/d/18ua1EhwHHsHhaaJOlBXXLRu7cyzRP0oSx73tOVkTCaA/edit?usp=sharing)
 
 
