@@ -39,6 +39,18 @@
 ![ESlint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 21 July 2022 - To: 28 July 2022
+
+HTML             4 hrs 16 mins   ███████████████░░░░░░░░░░   60.01 %
+Blade Template   1 hr 24 mins    █████░░░░░░░░░░░░░░░░░░░░   19.80 %
+CSS              27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Markdown         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+JavaScript       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+PHP              11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
