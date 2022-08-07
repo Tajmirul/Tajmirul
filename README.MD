@@ -43,13 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 July 2022 - To: 05 August 2022
+From: 30 July 2022 - To: 06 August 2022
 
-JavaScript       12 hrs 46 mins  ██████████▒░░░░░░░░░░░░░░   41.14 %
-HTML             11 hrs 4 mins   █████████░░░░░░░░░░░░░░░░   35.68 %
-Blade Template   2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-CSS              2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Other            51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+JavaScript       13 hrs 12 mins  ██████████░░░░░░░░░░░░░░░   39.54 %
+HTML             12 hrs 16 mins  █████████▒░░░░░░░░░░░░░░░   36.74 %
+Blade Template   2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+CSS              1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+YAML             1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Other            54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka-->
