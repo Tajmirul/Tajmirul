@@ -17,14 +17,14 @@
 
 ## Some of my best work:
 
-- Event Manager --> [Github](https://github.com/Tajmirul/event-management) | [Preview](https://event-manager-du.netlify.app)
-  - HTML, CSS & SCSS, Tailwind CSS, jQuery
 - Crenotive --> [Github](https://github.com/Tajmirul/crenotive) | [Preview](https://crenotive.netlify.app)
   - HTML, CSS & SCSS, Bootstrap 5, jQuery
 - Next Blog --> [Github](https://github.com/Tajmirul/next-blog) | [Preview](https://next-blog-tajmirul.netlify.app)
   - React Js, Javascript, Contentful
 - Ecolife (under development) --> [Github](https://github.com/Tajmirul/ecolife) | [Preview](https://ecolife.toinfinite.dev/)
   - Node Js, Express, MongoDB
+
+- [<font size="4">**View More**</font>](https://me.toinfinite.dev/projects)
 
 
 ## Skills and Tools:
