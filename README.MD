@@ -7,7 +7,7 @@
 
 
 
-## I'm a Full stack web developer
+## I'm a Frontend Engineer
 
 - :tada: **First open source contribution [PR #1963 Quran.com](https://github.com/quran/quran.com-frontend-next/pull/1963)**
 - ⚒️ Currently working on project (HISAB) that will reduce bachelor's problem
