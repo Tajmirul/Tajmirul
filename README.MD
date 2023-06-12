@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" style="width:100%" >
+<img src="assets/banner.jpg" style="width:100%" > <br><br>
 
 # Hi there, I'm Tajmirul Islam Akhand 👋
 
@@ -9,6 +9,7 @@
 
 ## I'm a Full stack web developer
 
+- :tada: **First open source contribution [PR #1963 Quran.com](https://github.com/quran/quran.com-frontend-next/pull/1963)**
 - ⚒️ Currently working on project (HISAB) that will reduce bachelor's problem
 - 🔰 Learning Node Js, Next.js
 - 🔭 Looking for new opportunity
