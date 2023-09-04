@@ -20,13 +20,17 @@ npx tajmirul
 
 ## Some of my best work:
 
-<table style="max-width: 700px;">
+![Crenotive](./assets/project-img/crenotive-full.png)
+![Rick And morty](./assets/project-img/rick-and-morty-full.png)
+![Unveiling BitBetio](./assets/project-img/online-betting-full.png)
+
+<!-- <table style="max-width: 700px;">
   <tr>
     <td width="200">
-      <img src="./assets/project-img/crenotive.webp" />
+      <img src="./assets/project-img/crenotive-full.png" />
     </td>
     <td>
-      <font style="font-size: 20px; margin:0;">Crenotive</font>
+      <h4 style="font-size: 20px; margin:0;">Crenotive</h4>
       <small style="font-size: 10px;">HTML, CSS & SCSS, Javascript & jQuery</small>
       <p style="margin-top: 7px;">Creative, eye-catching, and responsive website that is perfect for a business. It contains multiple pages.</p>
     </td>
@@ -53,7 +57,7 @@ npx tajmirul
       <p style="margin-top: 7px;">Experience the thrill of online betting with BitBetio - a secure platform offering a wide range of exciting games, easy deposits and withdrawals.</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 [<font size="3">**View More**</font>](https://me.toinfinite.dev/projects)
 
