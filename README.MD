@@ -18,14 +18,16 @@
 
 ## Some of my best work:
 
-- Crenotive --> [Github](https://github.com/Tajmirul/crenotive) | [Preview](https://crenotive.netlify.app)
+#### _Crenotive_ --> <font size="2">[Github](https://github.com/Tajmirul/crenotive) | [Preview](https://crenotive.netlify.app)</font>
   - HTML, CSS & SCSS, Bootstrap 5, jQuery
-- Next Blog --> [Github](https://github.com/Tajmirul/next-blog) | [Preview](https://next-blog-tajmirul.netlify.app)
+
+#### _Next Blog_ --> <font size="2">[Github](https://github.com/Tajmirul/next-blog) | [Preview](https://next-blog-tajmirul.netlify.app)</font>
   - React Js, Javascript, Contentful
-- Ecolife (under development) --> [Github](https://github.com/Tajmirul/ecolife) | [Preview](https://ecolife.toinfinite.dev/)
+
+#### _Ecolife (under development)_ --> <font size="2">[Github](https://github.com/Tajmirul/ecolife) | [Preview](https://ecolife.toinfinite.dev/)</font>
   - Node Js, Express, MongoDB
 
-- [<font size="4">**View More**</font>](https://me.toinfinite.dev/projects)
+[<font size="3">**View More**</font>](https://me.toinfinite.dev/projects)
 
 
 ## Skills and Tools:
