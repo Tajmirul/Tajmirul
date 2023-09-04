@@ -20,89 +20,40 @@ npx tajmirul
 
 ## Some of my best work:
 
-<div
-            style="
-                max-width: 700px;
-                display: flex;
-                flex-direction: column;
-                gap: 20px;
-            "
-        >
-            <div style="display: flex; gap: 30px">
-                <div>
-                    <img
-                        src="./assets/project-img/crenotive.webp"
-                        alt="Crenotive"
-                        style="width: 220px"
-                    />
-                </div>
-                <div>
-                    <h4 style="font-size: 18px; margin: 0">Crenotive</h4>
-                    <small style="font-size: 10px"
-                        >HTML, CSS & SCSS, Javascript & jQuery</small
-                    >
-                    <div style="display: flex; gap: 10px">
-                        <a href="" style="font-size: 13px">Github</a>
-                        <a href="" style="font-size: 13px">Live Preview</a>
-                    </div>
-                    <p style="margin-top: 7px">
-                        Creative, eye-catching, and responsive website that is
-                        perfect for a business. It contains multiple pages.
-                    </p>
-                </div>
-            </div>
-            <div style="display: flex; gap: 30px">
-                <div>
-                    <img
-                        src="./assets/project-img/rick-and-morty.jpg"
-                        alt="Top Coder Competition"
-                        style="width: 220px"
-                    />
-                </div>
-                <div>
-                    <h4 style="font-size: 18px; margin: 0">
-                        Top Coder Competition
-                    </h4>
-                    <small style="font-size: 10px"
-                        >TypeScript, React Js, Tailwind Css</small
-                    >
-                    <div style="display: flex; gap: 10px">
-                        <a href="" style="font-size: 13px">Github</a>
-                        <a href="" style="font-size: 13px">Live Preview</a>
-                    </div>
-                    <p style="margin-top: 7px">
-                        Explore the world of "Rick and Morty" with this dynamic
-                        fan website built with React and Tailwind CSS
-                    </p>
-                </div>
-            </div>
-            <div style="display: flex; gap: 30px">
-                <div>
-                    <img
-                        src="./assets/project-img/online-betting.jpg"
-                        alt="Unveiling BitBetio"
-                        style="width: 220px"
-                    />
-                </div>
-                <div>
-                    <h4 style="font-size: 18px; margin: 0">
-                        Unveiling BitBetio
-                    </h4>
-                    <small style="font-size: 10px"
-                        >Tailwind CSS, Html, JavaScript</small
-                    >
-                    <div style="display: flex; gap: 10px">
-                        <a href="" style="font-size: 13px">Github</a>
-                        <a href="" style="font-size: 13px">Live Preview</a>
-                    </div>
-                    <p style="margin-top: 7px">
-                        Experience the thrill of online betting with BitBetio -
-                        a secure platform offering a wide range of exciting
-                        games, easy deposits and withdrawals
-                    </p>
-                </div>
-            </div>
-        </div>
+<table style="max-width: 700px;">
+  <tr>
+    <td width="200">
+      <img src="./assets/project-img/crenotive.webp" />
+    </td>
+    <td>
+      <h4 style="font-size: 20px; margin:0;">Crenotive</h4>
+      <small style="font-size: 10px;">HTML, CSS & SCSS, Javascript & jQuery</small>
+      <p style="margin-top: 7px;">Creative, eye-catching, and responsive website that is perfect for a business. It contains multiple pages.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200">
+      <img src="./assets/project-img/rick-and-morty.jpg" />
+    </td>
+    <td>
+      <h4 style="font-size: 20px; margin:0;">Top Coder Competition</h4>
+      <small style="font-size: 10px;">TypeScript, React Js, Tailwind Css</small>
+      <p style="margin-top: 7px;">Explore the world of "Rick and Morty" with this dynamic fan website built with React and Tailwind CSS.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200">
+      <img src="./assets/project-img/online-betting.jpg" />
+    </td>
+    <td>
+      <h4 style="font-size: 20px; margin:0;">Unveiling BitBetio</h4>
+      <small style="font-size: 10px;">Tailwind CSS, Html, JavaScript</small>
+      <p style="margin-top: 7px;">Experience the thrill of online betting with BitBetio - a secure platform offering a wide range of exciting games, easy deposits and withdrawals.</p>
+    </td>
+  </tr>
+</table>
 
 [<font size="3">**View More**</font>](https://me.toinfinite.dev/projects)
 
