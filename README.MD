@@ -2,12 +2,15 @@
 
 # Hi there, I'm Tajmirul Islam Akhand 👋
 
-![Static Badge](https://img.shields.io/badge/To_Infinite-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=https%3A%2F%2Fme.toinfinite.dev%2F)
+![Portfolio](https://img.shields.io/badge/To_Infinite-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=https%3A%2F%2Fme.toinfinite.dev%2F)
 [![Download Resume](https://img.shields.io/badge/resume-Tajmirul:_Frontend_developer-green?style=for-the-badge)](https://docs.google.com/document/d/18ua1EhwHHsHhaaJOlBXXLRu7cyzRP0oSx73tOVkTCaA/edit?usp=sharing)
 
 
+```bash
+npx tajmirul
+```
 
-## I'm a Frontend Engineer
+## I'm a Frontend Developer
 
 - :tada: **First open source contribution [PR #1963 Quran.com](https://github.com/quran/quran.com-frontend-next/pull/1963)**
 - ⚒️ Currently working on an accounting app [AnchorBooks](https://anchorbooks.ai/)
