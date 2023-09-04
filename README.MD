@@ -6,7 +6,7 @@
 [![Download Resume](https://img.shields.io/badge/resume-Tajmirul:_Frontend_developer-green?style=for-the-badge)](https://docs.google.com/document/d/18ua1EhwHHsHhaaJOlBXXLRu7cyzRP0oSx73tOVkTCaA/edit?usp=sharing)
 
 ```bash
-npx tajmirul
+npx tajmirul    # to visit me in npm registry
 ```
 
 ## I'm a Frontend Developer
