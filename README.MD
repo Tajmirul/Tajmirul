@@ -26,7 +26,7 @@ npx tajmirul
       <img src="./assets/project-img/crenotive.webp" />
     </td>
     <td>
-      <h4 style="font-size: 20px; margin:0;">Crenotive</h4>
+      <font style="font-size: 20px; margin:0;">Crenotive</font>
       <small style="font-size: 10px;">HTML, CSS & SCSS, Javascript & jQuery</small>
       <p style="margin-top: 7px;">Creative, eye-catching, and responsive website that is perfect for a business. It contains multiple pages.</p>
     </td>
