@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" style="width:100%" > <br><br>
+<img src="assets/banner.svg" style="width:100%" > <br><br>
 
 # Hi there, I'm Tajmirul Islam Akhand 👋
 
@@ -11,10 +11,10 @@
 
 - :tada: **First open source contribution [PR #1963 Quran.com](https://github.com/quran/quran.com-frontend-next/pull/1963)**
 - ⚒️ Currently working on project (HISAB) that will reduce bachelor's problem
-- 🔰 Learning Node Js, Next.js
+- 🔰 Learning Nest.js
 - 🔭 Looking for new opportunity
 - ❤️ Love to learn new technologies
-- 🔮 My future plan is to start a unique business and take it to international level
+- 🔮 My future plan is to start a business and take it to international level
 
 ## Some of my best work:
 
