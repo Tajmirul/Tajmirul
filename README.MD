@@ -10,7 +10,7 @@
 ## I'm a Frontend Engineer
 
 - :tada: **First open source contribution [PR #1963 Quran.com](https://github.com/quran/quran.com-frontend-next/pull/1963)**
-- ⚒️ Currently working on project (HISAB) that will reduce bachelor's problem
+- ⚒️ Currently working on an accounting app [AnchorBooks](https://anchorbooks.ai/)
 - 🔰 Learning Nest.js
 - 🔭 Looking for new opportunity
 - ❤️ Love to learn new technologies
