@@ -18,14 +18,6 @@ npx tajmirul    # to visit me in npm registry
 -   🔮 My future plan is to start a business and take it to international level
 -   🔭 Looking for new opportunity
 
-## Some of my best work:
-
-[![Crenotive](./assets/project-img/crenotive-full.png)](https://me.toinfinite.dev/projects/crenotive-or-perfect-consulting-finance-and-business)
-[![Rick And morty](./assets/project-img/rick-and-morty-full.png)](https://me.toinfinite.dev/projects/rick-and-morty-fan-website-built-with-react)
-[![Unveiling BitBetio](./assets/project-img/online-betting-full.png)](https://me.toinfinite.dev/projects/unveiling-bitbetio-a-stunning-online-betting-platform)
-
-[<font size="3">**View More**</font>](https://me.toinfinite.dev/projects)
-
 ## Skills and Tools:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
