@@ -33,13 +33,13 @@ npx tajmirul    # to visit me in npm registry
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2025 - To: 19 January 2025
+From: 13 January 2025 - To: 20 January 2025
 
-TypeScript      18 hrs 45 mins  █████████████████████▒░░░   85.79 %
-JavaScript      2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-YAML            21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-HTML            6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-JSON            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+TypeScript   14 hrs          ████████████████████▓░░░░   82.66 %
+JavaScript   2 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+YAML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
