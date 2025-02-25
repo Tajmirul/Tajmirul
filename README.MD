@@ -12,11 +12,11 @@ npx tajmirul    # to visit me in npm registry
 ## I'm a Frontend Developer
 
 -   :tada: **First open source contribution [PR #1963 Quran.com](https://github.com/quran/quran.com-frontend-next/pull/1963)**
--   ⚒️ Currently working on an multi-vendor ecommerce app [Epikcart](https://demo.epikcart.siphertech.com/)
+-   ⚒️ Travel management website: ExpaTravels
 -   🔰 Learning Nest.js and microservices
 -   ❤️ Love to learn new technologies
 -   🔮 My future plan is to start a business and take it to international level
--   🔭 Looking for new opportunity
+[//]: # -   🔭 Looking for new opportunity
 
 ## Skills and Tools:
 
