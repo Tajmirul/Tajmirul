@@ -19,7 +19,7 @@ npx tajmirul    # to visit me in npm registry
 <!-- -   🔭 Looking for new opportunity -->
 
 ## What I've been doing these days
-[4th July, 2025]: I've been working in a browser extension called 10X extension, similar to [Fellow](https://fellow.app/). It's an internal tool for a client that I worked with that is connected with their system. It's used to take notes, action points, and write the decisions that has been made in a meeting. Since multiple user may be present and editing simultaneously, we needed to implement real-time collaboration. So we decided to implement websocket. But websocket alone is not enough, because if multiple people starts editing in the same document, they conflict and override one-another. So we also implemented Yjs to make it conflict free.
+`4th July, 2025:` I've been working in a browser extension called 10X extension, similar to [Fellow](https://fellow.app/). It's an internal tool for a client that I worked with that is connected with their system. It's used to take notes, action points, and write the decisions that has been made in a meeting. Since multiple user may be present and editing simultaneously, we needed to implement real-time collaboration. So we decided to implement **`websocket`**. But websocket alone is not enough, because if multiple people starts editing in the same document, they conflict and override one-another. So we also implemented **`Yjs`** to make it conflict free.
 
 ## Skills and Tools:
 
