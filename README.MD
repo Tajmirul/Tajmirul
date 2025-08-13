@@ -3,7 +3,7 @@
 # Hi there, I'm Tajmirul Islam Akhand 👋
 
 [![Portfolio](https://img.shields.io/badge/To_Infinite-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=https%3A%2F%2Fme.toinfinite.dev%2F)](https://me.toinfinite.dev)
-[![Download Resume](https://img.shields.io/badge/resume-Tajmirul:_Frontend_developer-green?style=for-the-badge)](https://docs.google.com/document/d/17vwbo5k84oMwpiV0V0JYY0UHRR_7uE0bOzQW2-oLMEI/edit?tab=t.0)
+[![Download Resume](https://img.shields.io/badge/resume-Tajmirul:_Frontend_developer-green?style=for-the-badge)](https://docs.google.com/document/d/19F_rEiRcUAaziiiqv57PitmrBGklSnQGiGZ92lI5dPk/edit?usp=sharing)
 
 ```bash
 npx tajmirul    # to visit me in npm registry
