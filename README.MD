@@ -2,7 +2,7 @@
 
 # Hi there, I'm Tajmirul Islam Akhand 👋
 
-[![Portfolio](https://img.shields.io/badge/To_Infinite-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=https%3A%2F%2Fme.toinfinite.dev%2F)](https://me.toinfinite.dev)
+[![Portfolio](https://img.shields.io/badge/To_Infinite-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=https%3A%2F%2Fme.toinfinite.dev%2F)](https://www.tajmirul.site/)
 [![Download Resume](https://img.shields.io/badge/resume-Tajmirul:_Frontend_developer-green?style=for-the-badge)](https://docs.google.com/document/d/19F_rEiRcUAaziiiqv57PitmrBGklSnQGiGZ92lI5dPk/edit?usp=sharing)
 
 ```bash
