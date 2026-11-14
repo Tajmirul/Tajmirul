@@ -35,20 +35,6 @@ npx tajmirul    # to visit me in npm registry
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ESlint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-Markdown     8 hrs 40 mins         ███████░░░░░░░░░░░░░░░░░░   28.43 %
-Other        8 hrs 8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.66 %
-TypeScript   6 hrs 16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.55 %
-HTML         2 hrs 26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-PHP          1 hr 20 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-```
-
-<!--END_SECTION:waka-->
-
 ## Connect with me:
 
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tasmirolislam@gmail.com)
